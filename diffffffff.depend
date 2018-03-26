@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521975321 source:d:\предметы\информатика\diffffffff\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
